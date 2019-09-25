@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b4088ad-aff9-454a-8018-2bd12a44f151" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Directions_reduction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sum_of_pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/valid_parentheses.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/weight_for_weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maximum_subarray_sum.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,11 +49,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/valid_parentheses.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
               <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/maximum_subarray_sum.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -103,7 +109,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/rok_przestępny.py" />
         <option value="$PROJECT_DIR$/silnia.py" />
         <option value="$PROJECT_DIR$/fill_list.py" />
         <option value="$PROJECT_DIR$/lista.py" />
@@ -154,10 +159,11 @@
         <option value="$PROJECT_DIR$/calculating_with_function.py" />
         <option value="$PROJECT_DIR$/weight_for_weight.py" />
         <option value="$PROJECT_DIR$/valid_parentheses.py" />
+        <option value="$PROJECT_DIR$/maximum_subarray_sum.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-10" />
     <option name="width" value="1945" />
     <option name="height" value="1105" />
@@ -218,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Sum_of_pairs">
+  <component name="RunManager" selected="Python.maximum_subarray_sum">
     <configuration name="Find_the_odd_int" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-ktw-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -261,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="calculating_with_function" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="maximum_subarray_sum" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python-ktw-1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,7 +279,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\danie\PycharmProjects\python-ktw-1\weight_for_weight.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/maximum_subarray_sum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.maximum_subarray_sum" />
         <item itemvalue="Python.Sum_of_pairs" />
         <item itemvalue="Python.valid_parentheses" />
         <item itemvalue="Python.Find_the_odd_int" />
         <item itemvalue="Python.weight_for_weight" />
-        <item itemvalue="Python.calculating_with_function" />
       </list>
     </recent_temporary>
   </component>
@@ -348,7 +354,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.25099075" />
@@ -718,6 +724,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="15" column="26" lean-forward="true" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maximum_subarray_sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
         </state>
       </provider>
     </entry>
