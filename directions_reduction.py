@@ -1,5 +1,5 @@
 def dirReduc(arr):
-    dict = {"NORTH":"SOUTH","SOUTH":"NORTH","EAST":"WEST","WEST":"EAST"}
+    dict = {"NORTH": "SOUTH", "SOUTH": "NORTH", "EAST": "WEST", "WEST": "EAST"}
     result = []
     for i in arr:
         if result and dict[i] == result[-1]:
@@ -7,6 +7,7 @@ def dirReduc(arr):
         else:
             result.append(i)
     return result
+
 
 if __name__ == '__main__':
     a = ["NORTH", "SOUTH", "SOUTH", "EAST", "WEST", "NORTH", "WEST"]
